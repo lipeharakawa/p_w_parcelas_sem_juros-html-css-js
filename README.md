@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Parcelas com Juros é uma página web que recebe um valor de uma venda e a quantidade de parcelas (Máximo de 10 parcelas, sem juros). Ao final o programa exibe os valores de cada parcela, assim como o total pago.
+O projeto Parcelas sem Juros é uma página web que recebe um valor de uma venda e a quantidade de parcelas (Máximo de 10 parcelas, sem juros). Ao final o programa exibe os valores de cada parcela, assim como o total pago.
 
 - [ Visite o projeto online ](https://lipeharakawa.github.io/p_w_parcelas_sem_juros-html-css-js)
 
