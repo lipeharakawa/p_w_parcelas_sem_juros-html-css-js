@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parcelas sem Juros</title>
+
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div>
+        <h2>Bem vindo!👋 Digite o valor</h2><br>
+        Valor da compra:<input type="number" id="valor" nome="valor" placeholder="Digite o valor"><br>
+        Em até 10x sem Juros:<input type="number" id="parcela" nome="parcela" placeholder="Digite o número de parcela"><br>
+        <p id="lista"></p>
+
+        <button onclick="calcular()">Calcular parcela</button>
+        <button onclick="limpar()">Limpar números</button>
+    </div>
+            
+    <script src="./script.js"></script>
+</body>
+</html>
