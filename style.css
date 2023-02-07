@@ -2,12 +2,12 @@ body {
   /*Alinha os elementos da página ao centro*/
   font-family: "Roboto Mono", monospace;
   text-align: center;
-  background-image: url("https://wallpaperaccess.com/full/1773977.jpg");
-  background-color: #000000;
+  background-color: #3d3454;
   /*Fixa o plano de fundo na página preenchendo-o por um todo*/
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
+  color: #ffffff;
   }
 
 h2 {
